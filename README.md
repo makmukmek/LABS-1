@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
     ```bash
     git clone https://github.com/makmukmek/LABS-1.git
-    cd Lab_Algs1
+    cd LABS-1
 
 2. Установите зависимости:
     ```bash
